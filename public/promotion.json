@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "movieName": "Star Wars: The Force Awakens",
+      "movieDescription": "As the First Order rises to power, a scavenger and a defecting stormtrooper find themselves on a quest for the lost Luke Skywalker. Their journey ignites a new conflict between the Resistance and the dark forces threatening to consume the galaxy.",
+      "bannerLink": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/10/star-wars-banner-full.jpg"
+    },
+    {
+      "id": 2,
+      "movieName": "The Expandables",
+      "movieDescription": "A team of elite mercenaries is hired to overthrow a ruthless dictator in a small South American country. They soon find themselves caught in a dangerous web of deceit and betrayal, realizing their target is merely a puppet for a powerful rogue CIA agent.",
+      "bannerLink": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2021/12/expendables-4-what-we-know.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5"
+    },
+    {
+      "id": 3,
+      "movieName": "Coolie",
+      "movieDescription": "A railway coolie, separated from his family by a vengeful man, rises to become the leader of his fellow porters. He embarks on a quest for justice and to reunite with his loved ones, ultimately confronting the very forces that tore his family apart.",
+      "bannerLink": "https://mytrip.my/wp-content/uploads/2025/08/rajinikanth-coolie.jpg"
+    },
+    {
+      "id": 4,
+      "movieName": "Lost in space",
+      "movieDescription": "After crash landing into a Alien planet, robinsons family fights all the odds to survive and escape.",
+      "bannerLink": "https://m.media-amazon.com/images/S/pv-target-images/def332c3575e278079e7a783cb1730a57644b60f510bc84b1b98ef3960deafa2.jpg"
+    }
+  ]
+}
